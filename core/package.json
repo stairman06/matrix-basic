@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "@stairman06/matrix-core",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "scripts": {
+    "watch": "tsc -w",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
